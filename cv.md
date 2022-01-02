@@ -3,7 +3,7 @@
 #####skype: ivan0vi4
 #####GitHub: https://github.com/vsheva 
 
-![myImage](vs1.png "Image")
+![myImage](vs1.png "My Image")
 
 ---
 
@@ -54,4 +54,4 @@ function cache(f) {
 ####Job experience
 Freelancer at https://www.upwork.com/
 
-English level: B1
+English level: B1/B2
