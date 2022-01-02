@@ -25,8 +25,7 @@ In 2021 I decided to try myself in front-end.<br>
 
 ---    
   
-  
-  
+ 
   
 ####Education
 The State University of Management <br>
