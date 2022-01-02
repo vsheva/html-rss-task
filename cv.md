@@ -1,4 +1,4 @@
-##Valeriy Shevchenko
+##Valeri Shevchenko
 #####tel +38 (067) 130-10-01
 #####skype: ivan0vi4
 #####GitHub: https://github.com/vsheva 
